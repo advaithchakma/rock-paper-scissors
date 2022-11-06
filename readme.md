@@ -1,5 +1,7 @@
 # Simple Python Game: Rock, Paper, Scissors
 
+<img src="rock-paper-scissors.png" alt="Alt text" title="Rock Paper Scissors Game">
+
 - Rock is won over scissors
 - Scissor is won over Paper
 - Paper is won over Rock
